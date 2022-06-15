@@ -19,3 +19,5 @@
 
  * **Basic Operators**
    *Maths operation, Logical operator,equality and inequality, increment/decrement operator... 
+ 
+* **Conditionals
