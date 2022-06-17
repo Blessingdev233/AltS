@@ -18,6 +18,13 @@
    * Control behavior in JavaScript and determine whether or not pieces of code can run 
 
  * **Basic Operators**
-   *Maths operation, Logical operator,equality and inequality, increment/decrement operator... 
+   * Maths operation, Logical operator,equality and inequality, increment/decrement operator... 
  
-* **Conditionals
+ * **Data types**
+   * to be updated...
+
+ * **Loops**
+   * to be updated...
+  
+ * **Scopes**
+   * to be updated..
